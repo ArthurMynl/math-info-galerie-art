@@ -1,0 +1,3 @@
+Preset1:C:/Users/hugob/OneDrive/Documents/@ESEO/P2/Projet_info/projetmatinfo/polygon_4.txt
+Preset2:
+Preset3:C:/Users/hugob/OneDrive/Documents/@ESEO/P2/Projet_info/projetmatinfo/museum.txt
